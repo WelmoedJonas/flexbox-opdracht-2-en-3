@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #F2F3D9;
+    font-family: "Microsoft YaHei"
+}
+
+.bar {
+    background-color: #030027;
+    color: white;
+    height: 30px;
+    padding: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headers {
+    text-align: center;
+}
+
+.content {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+article {
+    background-color: #C16E70;
+    text-align: center;
+    height: 350px;
+    max-width: 280px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    align-items: flex-end;
+}
+
+/*Opdracht 3*/
+
